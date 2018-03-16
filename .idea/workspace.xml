@@ -1,39 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="Added connection between the LoanBroker and the bank.">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_activemq_activemq_all_5_12_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/applicationforms/loanbroker/LoanBrokerListener.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/applicationforms/loanbroker/LoanBrokerQueue.java" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/DPI.iml" afterPath="$PROJECT_DIR$/DPI.iml" />
-      <change beforePath="$PROJECT_DIR$/out/production/DPI/applicationforms/abnamro/bank/JMSBankFrame$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/DPI/applicationforms/abnamro/bank/JMSBankFrame$2.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/DPI/applicationforms/abnamro/bank/JMSBankFrame.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/DPI/applicationforms/loanbroker/loanbroker/JListLine.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/DPI/applicationforms/loanbroker/loanbroker/LoanBrokerFrame$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/DPI/applicationforms/loanbroker/loanbroker/LoanBrokerFrame.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/DPI/applicationforms/loanclient/loanclient/LoanClientFrame$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/DPI/applicationforms/loanclient/loanclient/LoanClientFrame$2.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/DPI/applicationforms/loanclient/loanclient/LoanClientFrame.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/DPI/mix/messaging/requestreply/RequestReply.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/DPI/mix/model/bank/BankInterestReply.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/DPI/mix/model/bank/BankInterestRequest.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/DPI/mix/model/loan/LoanReply.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/DPI/mix/model/loan/LoanRequest.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/applicationforms/abnamro/bank/JMSBankFrame.java" afterPath="$PROJECT_DIR$/src/applicationforms/abnamro/bank/JMSBankFrame.java" />
-      <change beforePath="$PROJECT_DIR$/src/applicationforms/loanbroker/loanbroker/JListLine.java" afterPath="$PROJECT_DIR$/src/applicationforms/loanbroker/JListLine.java" />
-      <change beforePath="$PROJECT_DIR$/src/applicationforms/loanbroker/loanbroker/LoanBrokerFrame.java" afterPath="$PROJECT_DIR$/src/applicationforms/loanbroker/LoanBrokerFrame.java" />
-      <change beforePath="$PROJECT_DIR$/src/applicationforms/loanclient/loanclient/LoanClientFrame.java" afterPath="$PROJECT_DIR$/src/applicationforms/loanclient/LoanClientFrame.java" />
-      <change beforePath="$PROJECT_DIR$/src/mix/messaging/requestreply/RequestReply.java" afterPath="$PROJECT_DIR$/src/mix/messaging/RequestReply.java" />
-      <change beforePath="$PROJECT_DIR$/src/mix/model/bank/BankInterestReply.java" afterPath="$PROJECT_DIR$/src/mix/model/bank/BankInterestReply.java" />
-      <change beforePath="$PROJECT_DIR$/src/mix/model/bank/BankInterestRequest.java" afterPath="$PROJECT_DIR$/src/mix/model/bank/BankInterestRequest.java" />
-      <change beforePath="$PROJECT_DIR$/src/mix/model/loan/LoanReply.java" afterPath="$PROJECT_DIR$/src/mix/model/loan/LoanReply.java" />
-      <change beforePath="$PROJECT_DIR$/src/mix/model/loan/LoanRequest.java" afterPath="$PROJECT_DIR$/src/mix/model/loan/LoanRequest.java" />
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/src/applicationforms/loanbroker/JListLine.java" afterPath="$PROJECT_DIR$/src/applicationforms/loanbroker/JListLine.java" />
+      <change beforePath="$PROJECT_DIR$/src/applicationforms/loanbroker/LoanBrokerFrame.java" afterPath="$PROJECT_DIR$/src/applicationforms/loanbroker/LoanBrokerFrame.java" />
+      <change beforePath="$PROJECT_DIR$/src/applicationforms/loanclient/LoanClientFrame.java" afterPath="$PROJECT_DIR$/src/applicationforms/loanclient/LoanClientFrame.java" />
+      <change beforePath="$PROJECT_DIR$/src/mix/messaging/RequestReply.java" afterPath="$PROJECT_DIR$/src/mix/messaging/RequestReply.java" />
     </list>
     <ignored path="JavaFxApplication.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -647,15 +619,24 @@
       <workItem from="1521031370864" duration="6678000" />
       <workItem from="1521038061861" duration="676000" />
       <workItem from="1521107496498" duration="46000" />
-      <workItem from="1521205376832" duration="4564000" />
+      <workItem from="1521205376832" duration="4627000" />
     </task>
+    <task id="LOCAL-00001" summary="Added connection between the LoanBroker and the bank.">
+      <created>1521209947489</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1521209947489</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13266000" />
+    <option name="totallyTimeSpent" value="13329000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="63" width="1680" height="1016" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
